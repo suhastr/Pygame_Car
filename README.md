@@ -18,12 +18,8 @@
 
 ## FUTURE VERSIONS
 
-###  V8 ENGINE SUPERCAR (V 2.0)
-####         - Cruise Control
-####         - Boundary setting
-####         - New Car
-
-- Item 1
-  - Subitem 1a
-  - Subitem 1b
+- V8 ENGINE SUPERCAR (V 2.0)
+  - Cruise Control
+  - Boundary setting
+  - New Car
   
