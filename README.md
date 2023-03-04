@@ -19,7 +19,7 @@
 ## FUTURE VERSIONS
 
 ###  - V8 ENGINE SUPERCAR (V 2.0)
-####         - Cruise Control
-####         - Boundary setting
-####         - car image change
+####         -    Cruise Control
+####         -    Boundary setting
+####         -    car image change
   
